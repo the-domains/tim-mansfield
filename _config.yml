@@ -1,0 +1,23 @@
+name: Tim Mansfield
+favicon: null
+layout_spectrum: 0.854433472501114
+typography_spectrum: 0.25883698370307684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4681284800171852
+  lightness: 0.5803753093350679
+  saturation: 0.6502202041447163
+  rhythmicContrast: 0.9279378827195615
+purpose: []
