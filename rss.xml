@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Mansfield]]></title>
+        <description><![CDATA[Tim Mansfield]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 Nov 2015 23:46:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello. I come from The Future]]></title>
+            <description><![CDATA[<h1>Hello. I come from The Future</h1>]]></description>
+            <link>undefinedhello-i-come-from-the-future/index.html</link>
+            <guid isPermaLink="false">e092b317-143a-4689-9ce9-d49f417eaae8</guid>
+            <pubDate>Sat, 07 Nov 2015 23:46:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
