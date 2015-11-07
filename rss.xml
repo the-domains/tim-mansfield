@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tim Mansfield]]></title>
         <description><![CDATA[Tim Mansfield]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tim-mansfield/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 23:46:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 23:47:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tim-mansfield/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Conscious Leadership at CSL]]></title>
+            <description><![CDATA[<h1>Conscious Leadership at CSL</h1>]]></description>
+            <link>https://thegrid.ai/tim-mansfield/conscious-leadership-at-csl/index.html</link>
+            <guid isPermaLink="false">757ef037-15e7-4ee4-aaf8-74337b9d8d68</guid>
+            <pubDate>Sat, 07 Nov 2015 23:47:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello. I come from The Future]]></title>
             <description><![CDATA[<h1>Hello. I come from The Future</h1>]]></description>
-            <link>undefinedhello-i-come-from-the-future/index.html</link>
+            <link>https://thegrid.ai/tim-mansfield/hello-i-come-from-the-future/index.html</link>
             <guid isPermaLink="false">e092b317-143a-4689-9ce9-d49f417eaae8</guid>
             <pubDate>Sat, 07 Nov 2015 23:46:03 GMT</pubDate>
         </item>
