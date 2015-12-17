@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Mansfield]]></title>
+        <description><![CDATA[Tim Mansfield]]></description>
+        <link>https://thegrid.ai/tim-mansfield/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 05:02:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tim-mansfield/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62d68701-2e80-4e8d-bf3a-2d090f124925.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/tim-mansfield/63c4462a-b546-4159-960f-ebcf027759bb/index.html</link>
+            <guid isPermaLink="false">63c4462a-b546-4159-960f-ebcf027759bb</guid>
+            <pubDate>Thu, 17 Dec 2015 05:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conscious Leadership at CSL]]></title>
+            <description><![CDATA[<h1>Conscious Leadership at CSL</h1>]]></description>
+            <link>https://thegrid.ai/tim-mansfield/conscious-leadership-at-csl/index.html</link>
+            <guid isPermaLink="false">757ef037-15e7-4ee4-aaf8-74337b9d8d68</guid>
+            <pubDate>Sat, 07 Nov 2015 23:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello. I come from The Future]]></title>
+            <description><![CDATA[<h1>Hello. I come from The Future</h1>]]></description>
+            <link>https://thegrid.ai/tim-mansfield/hello-i-come-from-the-future/index.html</link>
+            <guid isPermaLink="false">e092b317-143a-4689-9ce9-d49f417eaae8</guid>
+            <pubDate>Sat, 07 Nov 2015 23:46:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
